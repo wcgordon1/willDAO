@@ -1,7 +1,10 @@
 # willDAO
 willDAO dApp
 
-willDAO - https://willdao.netlify.app/
+willDAO 
+
+Live Site: https://willdao.netlify.app/
+- Deployed on Netlify
 -	dApp (Decentralized Application) - connect wallet, mint NFT, DAO Dashboard - view members + vote on proposals executed directly by DAO’s governance contract
 -	Goerli test network. JavaScript/REACT. thirdweb SDK/smart contracts
 LINK - Deployed custom ERC-20 token - https://goerli.etherscan.io/address/0x1ab6dfAC341CC6E85d7071AC1Ab90F238d2Dc411
